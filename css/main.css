@@ -18,7 +18,7 @@ html {
 }
 
 h1 {
-  opacity: 0;
+  line-height: .25;
 }
 
 *, *::before, *::after {
