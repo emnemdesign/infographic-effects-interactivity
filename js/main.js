@@ -28,8 +28,8 @@ $litter.waypoint(function () {
 
 $toys.waypoint(function () {
   $toys.addClass('js-svg-animate');
-}, {offset: '50%'});
+}, {offset: '80%'});
 
 $total.waypoint(function () {
   $total.addClass('js-svg-animate');
-}, {offset: '50%'});
+}, {offset: '80%'});
